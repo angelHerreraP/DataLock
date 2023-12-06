@@ -1,0 +1,51 @@
+/* css para el logo superior izquierdo */
+.logo-header{
+    width: 10%;
+    height: 10%; 
+    border: 2px solid rgb(0, 0, 0);
+}
+/*termina css para el logo superior izquierdo */
+
+/* css para el formulario de inicio de sesion */
+.login-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 350px;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    margin: auto;
+    transform: translate(-50%, -50%);
+  }
+/* termina el  css para el formulario de inicio de sesion */
+  
+/* css para el formulario de registro nueva cuenta */
+.new-account {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 80%;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    margin: auto;
+    transform: translate(-50%, -50%);
+  }
+/* termina el  css para el formulario de registro nueva cuenta */
+  
+  
+/* css para el formulario de registro nueva cuenta */
+.recover-pass {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 25%;
+    height: 35%;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    margin: auto;
+    transform: translate(-50%, -50%);
+  }
+/* termina el  css para el formulario de registro nueva cuenta */
+  
