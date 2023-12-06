@@ -81,20 +81,7 @@
   }
 /* termina el  css para el formulario de registro nueva cuenta */
   
-  
-/* css para el formulario de registro nueva cuenta */
-.recover-pass {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 25%;
-    height: 35%;
-    border: 2px solid rgb(0, 0, 0);
-    border-radius: 50px;
-    margin: auto;
-    transform: translate(-50%, -50%);
-  }
-/* termina el  css para el formulario de registro nueva cuenta */
+
 
 /* Configuracion para todos los forms */
 .form-aspect input{
@@ -182,3 +169,30 @@
   margin: 10px;
   display: inline-block;
 }
+
+/* css para el formulario de olvido la contrasena */
+.recover-pass {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 25%;
+  height: 35%;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  margin: auto;
+  transform: translate(-50%, -50%);
+}
+.recover-pass h2{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 28px;
+  font-weight: lighter;
+}
+
+.resend-button{
+  border-radius: 25px;
+  background-color:darkblue;
+  color: aliceblue;
+  width: 100px;
+  
+}
+/* termina el  css para el formulario de restablecer contrasena */
