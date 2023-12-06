@@ -143,6 +143,31 @@
 /* css para el contenido */
 .content {
   margin-left: 15%;
-  padding: 16px;
+  margin-top: 0; /* Elimina el margen superior */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black; /* Ajusta el ancho y el color del borde según tus preferencias */
+  height: 99%;
 }
 /* end css para el contenido */
+
+.Payments-details {
+  width: 50%;
+  height: 50%;
+  border: 2px solid black;
+  padding: 16px;
+  border-radius: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.table-payment-details,
+.history-payment-details {
+  border: 2px solid black;
+  padding: 16px;
+  margin: 10px;
+  display: inline-block;
+}
