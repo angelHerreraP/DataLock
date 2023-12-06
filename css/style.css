@@ -51,6 +51,23 @@
     margin: auto;
     transform: translate(-50%, -50%);
   }
+
+  .new-account h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+    font-weight: lighter;
+
+  }
+  .boton-send-signup{
+    margin-top:37%;
+  }
+  .boton-send-signup input{
+    border-radius: 25px;
+    width: 8%;
+    height: 3.5%;
+    background-color:darkblue;
+    color:aliceblue;
+  }
 /* termina el  css para el formulario de registro nueva cuenta */
   
   

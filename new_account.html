@@ -15,9 +15,31 @@
 
         <!--Inicio Form de registro-->
         <div class="new-account">
-
-           <center>Colocar formulario de registro aca</center> 
+            <!--Titulo-->
+            <center>
+            <h2>Crear una cuenta nueva</h2>
+            </center> 
+            <!--Formulario-->
+            <form>
+                <input type="text" name="nombre" placeholder="Nombre" required>
+                <input type="text" name="apellido_paterno" placeholder="Apellido Paterno" required>
+                <input type="text" name="apellido_materno" placeholder="Apellido Materno" required>
+                <br>
+                <input type="email" name="correo" placeholder="Correo electrónico" required>
+                <input type="email" name="confirmar_correo" placeholder="Confirmar correo electrónico" required>
+                <input type="tel" name="telefono" placeholder="Número telefónico" required>
+                <br>
+                <input type="password" name="contrasena" placeholder="Contraseña" required>
+                <input type="password" name="confirmar_contrasena" placeholder="Confirmar contraseña" required>
+            </form>
         </div>
+        <!--Boton enviar-->
+        <form class="boton-send-signup">
+            <center>
+                <input class="enviar" type="submit" value="Ingresar">
+            </center>
+        </form>
+
         <!--Fin Form de inicio de sesion-->
 
     </body>
