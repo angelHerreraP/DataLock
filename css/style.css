@@ -121,13 +121,12 @@
 
 /* css para sidebar */
 .sidebar {
-  width: 15%;
+  width: 14%;
   height: 100%;
   position: fixed;
   left: 0;
   top: 0;
   color: white;
-  border-right: 1px solid #ddd;
   display: flex;
   flex-direction: column;
   justify-content: center;
