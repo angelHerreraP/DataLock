@@ -63,10 +63,21 @@
   }
   .boton-send-signup input{
     border-radius: 25px;
-    width: 8%;
-    height: 3.5%;
+    width: 9%;
+    height: 5%;
     background-color:darkblue;
     color:aliceblue;
+    font-size: 18;
+  }
+  
+  .form-newusr-aspect label{
+    margin-left:7%
+  }
+
+  .form-newusr-aspect input{
+    height:9%;
+    width: 25%;
+    margin-left: 7%;
   }
 /* termina el  css para el formulario de registro nueva cuenta */
   
