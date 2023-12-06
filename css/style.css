@@ -110,3 +110,11 @@
     text-align: center;
     border-bottom: 1px solid #ddd;
 }
+/* end css para sidebar */
+
+/* css para el contenido */
+.content {
+  margin-left: 15%;
+  padding: 16px;
+}
+/* end css para el contenido */
