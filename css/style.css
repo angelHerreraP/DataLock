@@ -102,3 +102,36 @@
   background-color:darkblue;
   color:aliceblue;
 }
+/* termina la configuracion para todos los forms */
+
+/* css para sidebar */
+.sidebar {
+  width: 15%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  color: white;
+  border-right: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* Centramos horizontal y verticalmente */
+}
+.sidebar a {
+    width: 90%;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 6%;
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+/* end css para sidebar */
+
+/* css para el contenido */
+.content {
+  margin-left: 15%;
+  padding: 16px;
+}
+/* end css para el contenido */
