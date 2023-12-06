@@ -124,6 +124,13 @@
   color: #0097B2;
 }
 
+.left-align2{
+  margin-left: 200px; /* Puedes ajustar el valor según sea necesario */
+  color: #0097B2;
+}
+
+
+
 /* termina la configuracion para todos los forms */
 
 /* css para sidebar */
@@ -182,3 +189,17 @@
   margin: 10px;
   display: inline-block;
 }
+
+/*lestras de formulario */
+
+.big-space {
+ margin-right: 220px; /* Ajusta el tamaño del espacio según tus necesidades */
+}
+
+.big-space1 {
+  margin-right: 155px; /* Ajusta el tamaño del espacio según tus necesidades */
+ }
+
+ .big-space2 {
+  margin-right: 190px; /* Ajusta el tamaño del espacio según tus necesidades */
+ }
