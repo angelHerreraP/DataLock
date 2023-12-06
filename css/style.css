@@ -102,6 +102,17 @@
   background-color:darkblue;
   color:aliceblue;
 }
+
+.left-align1{
+  margin-left: -200px; /* Puedes ajustar el valor según sea necesario */
+  color: #0097B2;
+}
+
+.left-align2{
+  margin-left: -180px; /* Puedes ajustar el valor según sea necesario */
+  color: #0097B2;
+}
+
 /* termina la configuracion para todos los forms */
 
 /* css para sidebar */
