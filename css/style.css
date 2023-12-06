@@ -18,6 +18,25 @@
     margin: auto;
     transform: translate(-50%, -50%);
   }
+
+
+  .login-form h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 38px;
+    font-weight: lighter;
+
+  }
+
+  .login-form p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:darkgray;
+    margin-top:-20px;
+    font-size: 12px;
+
+  }
+
+
+
 /* termina el  css para el formulario de inicio de sesion */
   
 /* css para el formulario de registro nueva cuenta */
@@ -48,4 +67,21 @@
     transform: translate(-50%, -50%);
   }
 /* termina el  css para el formulario de registro nueva cuenta */
-  
+
+/* Configuracion para todos los forms */
+.formulario input{
+  width:70%;
+  height: 10%;
+}
+
+.formulario label{
+  font-size: 12px;
+  text-align: left;
+}
+
+ .formulario .enviar{
+  border-radius: 25px;
+  width: 50%;
+  background-color:darkblue;
+  color:aliceblue;
+}
