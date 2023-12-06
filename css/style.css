@@ -223,11 +223,11 @@
   font-weight: lighter;
 }
 
-.resend-button{
+.form-aspect .resend-button{
   border-radius: 25px;
   background-color:darkblue;
   color: aliceblue;
-  width: 100px;
+  width: 30%;
   
 }
 /* termina el  css para el formulario de restablecer contrasena */
