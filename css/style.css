@@ -128,12 +128,9 @@
 
 /* css para sidebar */
 .sidebar {
-<<<<<<< Updated upstream
   width: 15%;
-=======
   width: 17%;
->>>>>>> Stashed changes
-  height: 100%;
+    height: 100%;
   position: fixed;
   left: 0;
   top: 0;
