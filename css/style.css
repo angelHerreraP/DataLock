@@ -123,6 +123,24 @@
 }
 
 
+/*css de el login para cambiar contraseña */
+
+.left-align4{
+  margin-left: -150px; /* Puedes ajustar el valor según sea necesario */
+  color: #0097B2;
+}
+
+.left-align5{
+  margin-left: -130px; /* Puedes ajustar el valor según sea necesario */
+  color: #0097B2;
+}
+
+.left-align2{
+  margin-left: 200px; /* Puedes ajustar el valor según sea necesario */
+  color: #0097B2;
+}
+
+
 
 /* termina la configuracion para todos los forms */
 
