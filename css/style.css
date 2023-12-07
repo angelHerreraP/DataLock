@@ -274,3 +274,25 @@
   
 }
 /* termina el  css para el formulario de restablecer contrasena */
+
+
+/*iconos menu principal*/
+.main-menu{
+  margin-top: 8%;
+  width: 70%;
+  height:60%;
+}
+
+.menus-icons{
+  height: 50%;
+  width:100%;
+
+}
+
+.dependecy{
+  width: 33%;
+  height:100%;
+  border: 1px solid black;
+  display:inline;
+}
+/*iconos menu principal*/
