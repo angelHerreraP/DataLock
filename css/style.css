@@ -146,7 +146,11 @@
 
 /* css para sidebar */
 .sidebar {
+<<<<<<< Updated upstream
   width: 15%;
+=======
+  width: 17%;
+>>>>>>> Stashed changes
   height: 100%;
   position: fixed;
   left: 0;
@@ -159,7 +163,7 @@
   align-items: center; /* Centramos horizontal y verticalmente */
 }
 .sidebar a {
-    width: 90%;
+    width: 100%;
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 6%;
@@ -171,7 +175,7 @@
 
 /* css para el contenido */
 .content {
-  margin-left: 15%;
+  margin-left: 18%;
   margin-top: 0; /* Elimina el margen superior */
   display: flex;
   justify-content: center;
