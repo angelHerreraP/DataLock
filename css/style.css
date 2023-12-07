@@ -87,20 +87,7 @@
   }
 /* termina el  css para el formulario de registro nueva cuenta */
   
-  
-/* css para el formulario de registro nueva cuenta */
-.recover-pass {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 25%;
-    height: 35%;
-    border: 2px solid rgb(0, 0, 0);
-    border-radius: 50px;
-    margin: auto;
-    transform: translate(-50%, -50%);
-  }
-/* termina el  css para el formulario de registro nueva cuenta */
+
 
 /* Configuracion para todos los forms */
 .form-aspect input{
@@ -190,16 +177,6 @@
   align-items: center;
 }
 
-.table-payment-details,
-.history-payment-details {
-  width: 100%;
-  height: 50%;
-  border: 2px solid black;
-  padding: 16px;
-  margin: 10px;
-  display: inline-block;
-<<<<<<< HEAD
-}
 
 /*lestras de formulario */
 
@@ -214,9 +191,7 @@
  .big-space2 {
   margin-right: 190px; /* Ajusta el tamaño del espacio según tus necesidades */
  }
-=======
-  border-radius: 50px;
-}
+
 
 
 .formalities-history {
@@ -241,4 +216,3 @@
   display: inline-block;
   border-radius: 50px;
 }
->>>>>>> 0d3765502260034410771bc921b44e8b509f5213
