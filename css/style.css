@@ -216,4 +216,42 @@
   display: inline-block;
   border-radius: 50px;
 }
+
+
+.table-payment-details,
+.history-payment-details {
+  width: 100%;
+  height: 50%;
+  border: 2px solid black;
+  padding: 16px;
+  margin: 10px;
+  display: inline-block;
+}
+
+
+/* css para el formulario de olvido la contrasena */
+.recover-pass {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 25%;
+  height: 35%;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  margin: auto;
+  transform: translate(-50%, -50%);
+}
+.recover-pass h2{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 28px;
+  font-weight: lighter;
+}
+
+.resend-button{
+  border-radius: 25px;
+  background-color:darkblue;
+  color: aliceblue;
+  width: 100px;
   
+}
+/* termina el  css para el formulario de restablecer contrasena */
